@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
 }
 
 class DecisionData {
-  final int id;
   final String text;
   final String headline;
   final String option1;
@@ -35,7 +34,6 @@ class DecisionData {
   final String option2;
 
   DecisionData({
-    required this.id,
     required this.text,
     required this.headline,
     required this.option1,
@@ -45,7 +43,6 @@ class DecisionData {
 
   factory DecisionData.fromJson(Map<String, dynamic> json) {
     return DecisionData(
-      id: json['id'],
       text: json['text'],
       headline: json['headline'],
       option1: json['option1']["headline"],
@@ -273,7 +270,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                                 //   decisionData = DecisionData.fromJson(_data[id]);
                                                 //   consequenceData = null;
                                                 // }),
-                                                Navigator.of(context).popUntil((_) => false),
+                                                Navigator.of(context).popUntil((_) => _.isFirst),
                                               },
                                               child: const Text('Restart'),
                                             ),
