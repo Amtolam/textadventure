@@ -267,13 +267,13 @@ class _AdventurePageState extends State<AdventurePage> {
                                             const SizedBox(height: 20),
                                             ElevatedButton(
                                               onPressed: () => {
-                                                setState(() {
-                                                  id = 0;
-                                                  points = 0;
-                                                  decisionData = DecisionData.fromJson(_data[id]);
-                                                  consequenceData = null;
-                                                }),
-                                                Navigator.of(context).pop(),
+                                                // setState(() {
+                                                //   id = 0;
+                                                //   points = 0;
+                                                //   decisionData = DecisionData.fromJson(_data[id]);
+                                                //   consequenceData = null;
+                                                // }),
+                                                Navigator.of(context).popUntil((_) => false),
                                               },
                                               child: const Text('Restart'),
                                             ),
