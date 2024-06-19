@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData.dark().copyWith(
         colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 122, 0, 81)),
       ),
-      home: const MyHomePage(title: 'Text adventure - Celebrity Life'),
+      home: const SelectionPage(),
     );
   }
 }
@@ -78,15 +78,53 @@ class ConsequenceData {
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-  final String title;
+class SelectionPage extends StatelessWidget {
+  const SelectionPage({super.key});
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Padding(
+        padding: const EdgeInsets.all(30),
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 400),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Text('Select your adventure', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
+                const SizedBox(height: 30),
+                ElevatedButton(
+                  onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data.json"))),
+                  child: const Text('Modern life'),
+                  style: ElevatedButton.styleFrom(fixedSize: const Size.fromHeight(70), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))),
+                ),
+                const SizedBox(height: 10),
+                ElevatedButton(
+                  onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data_old.json"))),
+                  child: const Text('Pre-World Wide Web life'),
+                  style: ElevatedButton.styleFrom(fixedSize: const Size.fromHeight(70), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))),
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class AdventurePage extends StatefulWidget {
+  const AdventurePage({super.key, required this.source});
+  final String source;
+
+  @override
+  State<AdventurePage> createState() => _AdventurePageState();
+}
+
+class _AdventurePageState extends State<AdventurePage> {
   int id = 0;
   int points = 0;
   DecisionData? decisionData;
@@ -101,7 +139,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void loadData() async {
-    _data = jsonDecode(await rootBundle.loadString('data/data.json'));
+    _data = jsonDecode(await rootBundle.loadString(widget.source));
     setState(() {decisionData = DecisionData.fromJson(_data[id]);});
   }
 
@@ -121,7 +159,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   SizedBox(
-                    height: MediaQuery.sizeOf(context).height * .35,
+                    height: (MediaQuery.sizeOf(context).height.floor() * .35).floor().toDouble(),
                     width: MediaQuery.sizeOf(context).width,
                     child: ShaderMask(
                       shaderCallback: (rect) {
@@ -133,13 +171,14 @@ class _MyHomePageState extends State<MyHomePage> {
                       },
                       blendMode: BlendMode.dstIn,
                       child: FadeInImage(
-                        placeholder: const AssetImage('data/images/card_background.png'),
+                        placeholder: const AssetImage('data/images/placeholder.png'),
                         fit: BoxFit.cover,
                         alignment: Alignment.topCenter,
                         image: Image.network((decisionData?.image ?? consequenceData?.image ?? "https://via.placeholder.com/1920")).image,
                       ),
                     ),
                   ),
+                  const SizedBox(height: 30),
                   ConstrainedBox(
                     constraints: const BoxConstraints(maxWidth: 920),
                     child: Padding(
