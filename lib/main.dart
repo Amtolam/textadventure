@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Celebrity Life - text adventure',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 0, 160, 107)),
       ),
@@ -90,17 +90,17 @@ class SelectionPage extends StatelessWidget {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Text('Select your adventure', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
+                Text('Wähle dein Szenario', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
                 const SizedBox(height: 30),
                 ElevatedButton(
                   onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data.json"))),
-                  child: const Text('Modern life'),
+                  child: const Text('Influencer 2024'),
                   style: ElevatedButton.styleFrom(fixedSize: const Size.fromHeight(70), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))),
                 ),
                 const SizedBox(height: 10),
                 ElevatedButton(
                   onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data_old.json"))),
-                  child: const Text('Pre-World Wide Web life'),
+                  child: const Text('Popstar 1980'),
                   style: ElevatedButton.styleFrom(fixedSize: const Size.fromHeight(70), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))),
                 ),
               ],
@@ -170,7 +170,7 @@ class _AdventurePageState extends State<AdventurePage> {
                       child: FadeInImage(
                         placeholder: const AssetImage('data/images/placeholder.png'),
                         fit: BoxFit.cover,
-                        alignment: Alignment.topCenter,
+                        alignment: Alignment.center,
                         image: Image.network((decisionData?.image ?? consequenceData?.image ?? "https://via.placeholder.com/1920")).image,
                       ),
                     ),
@@ -197,7 +197,7 @@ class _AdventurePageState extends State<AdventurePage> {
                           if (decisionData != null) LayoutBuilder(
                             builder: (context, constraints) {
                               final option1 = ElevatedButton(
-                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable),
+                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                                 onPressed: () => {
                                   setState(() {
                                     decisionData = null;
@@ -205,10 +205,10 @@ class _AdventurePageState extends State<AdventurePage> {
                                     points += consequenceData!.points;
                                   }),
                                 },
-                                child: Text(decisionData?.option1 ?? "<No option>"),
+                                child: Text(decisionData?.option1 ?? "<No option>", textAlign: TextAlign.center),
                               );
                               final option2 = ElevatedButton(
-                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable),
+                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                                 onPressed: () => {
                                   setState(() {
                                     decisionData = null;
@@ -216,7 +216,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                     points += consequenceData!.points;
                                   }),
                                 },
-                                child: Text(decisionData?.option2 ?? "<No option>"),
+                                child: Text(decisionData?.option2 ?? "<No option>", textAlign: TextAlign.center),
                               );
 
                               if (constraints.maxWidth > 600) {
@@ -238,14 +238,13 @@ class _AdventurePageState extends State<AdventurePage> {
                                     option1,
                                     const SizedBox(height: 10),
                                     option2,
-                                    const SizedBox(height: 30),
                                   ],
                                 );
                               }
                             },
                           ),
                           if (consequenceData != null) ElevatedButton(
-                            style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable),
+                            style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                             onPressed: () => {
                               setState(() {
                                 if (_data.length == id + 1) {
@@ -256,11 +255,11 @@ class _AdventurePageState extends State<AdventurePage> {
                                         child: Column(
                                           mainAxisSize: MainAxisSize.min,
                                           children: [
-                                            Text("Day over!", style: Theme.of(context).textTheme.headlineLarge),
+                                            Text("Tag vorbei!", style: Theme.of(context).textTheme.headlineLarge),
                                             const SizedBox(height: 20),
-                                            Text('Your decisions resulted in $points points.', style: Theme.of(context).textTheme.headlineMedium, textAlign: TextAlign.center),
+                                            Text('Deine Entscheidungen haben dir $points Punkte eingebracht', style: Theme.of(context).textTheme.headlineMedium, textAlign: TextAlign.center),
                                             const SizedBox(height: 10),
-                                            Text("The more points you have, the more you adapted to the effects that the world wide web has on your daily life.", textAlign: TextAlign.center,),
+                                            Text("Je mehr Punkte du hast, desto besser hast du dich an die Einflüsse angepasst, die globale Vernetzung auf deinen Alltag haben", textAlign: TextAlign.center,),
                                             const SizedBox(height: 20),
                                             ElevatedButton(
                                               onPressed: () => {
@@ -272,7 +271,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                                 // }),
                                                 Navigator.of(context).popUntil((_) => _.isFirst),
                                               },
-                                              child: const Text('Restart'),
+                                              child: const Text('Wiederholen'),
                                             ),
                                           ],
                                         ),
@@ -286,13 +285,13 @@ class _AdventurePageState extends State<AdventurePage> {
                                 decisionData = DecisionData.fromJson(_data[id]);
                               }),
                             },
-                            child: const Text('Continue'),
+                            child: const Text('Weiter'),
                           ),
                         ],
                       ),
                     ),
                   ),
-                  
+                  const SizedBox(height: 30),
                 ],
               ),
             ),

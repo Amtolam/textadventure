@@ -1,84 +1,50 @@
 [
     {
-        "headline": "This is an old headline",
+        "headline": "Morgenroutine",
         "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
-            "headline": "Do this thing",
+            "headline": "Vorhänge auf - einen schnellen Blick aus dem Fenster werfen",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": 1
         },
         "option2": {
-            "headline": "Do that thing",
+            "headline": "Zeitung auf - erneut von deinem Wetterservice angelogen werden",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1
         }
     },
     {
-        "headline": "This is an old headline 2",
+        "headline": "Mittagessen",
         "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
-            "headline": "Do this thing",
+            "headline": "Entgegenkommende nach Tipps fragen",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": 1
         },
         "option2": {
-            "headline": "Do that thing",
+            "headline": "Stadtkarte bemühen",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1
         }
     },
     {
-        "headline": "This is an old headline 3",
+        "headline": "Parkplatzsuche",
         "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
-            "headline": "Do this thing",
+            "headline": "Direkt vor dem Eingang - keine Zeit zu verlieren",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": 1
         },
         "option2": {
-            "headline": "Do that thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
-        }
-    },
-    {
-        "headline": "This is an old headline 4",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-        "option1": {
-            "headline": "Do this thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
-        },
-        "option2": {
-            "headline": "Do that thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
-        }
-    },
-    {
-        "headline": "This is an old headline 5",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-        "option1": {
-            "headline": "Do this thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
-        },
-        "option2": {
-            "headline": "Do that thing",
+            "headline": "Ein paar Blocks weiter auf einem privaten Parkplatz",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1
