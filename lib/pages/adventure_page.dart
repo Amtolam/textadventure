@@ -106,7 +106,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                         const SizedBox(width: 15),
                                         AnimatedDetail(
                                           icon: const Icon(Icons.auto_awesome),
-                                          detail: const Text("KI-assistiert")
+                                          detail: const Text("KI-assistiert"),
                                         )
                                       ],
                                     ),
