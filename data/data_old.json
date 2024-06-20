@@ -7,9 +7,9 @@
             "headline": "Vorhänge auf - einen schnellen Blick aus dem Fenster werfen",
             "text": "Der strömende Regen dämpft zwar deine Stimmung, aber du freust dich über den Anblick des menschenleeren Anwesens. Seit Reporter der Bild-Zeitung dir vor einigen Wochen nach Hause folgten und Fotos schossen, bist du etwas nervös, aber durch eine Flut von Klagen deines Teams konntest du die Veröffentlichung - und weitere Vorfälle dieser Art - glücklicherweise erstmal verhindern. Du wickelst dich in Frischhaltefolie ein und verlässt gleichmäßig hüpfend das Haus.",
             "image": "https://imgs.search.brave.com/Pxu9ps8V9SAhWrj2eVrcIoeJFlLucSkdJNDpQETMpEE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzA1LzAxLzgz/LzM2MF9GXzUwMTgz/OTdfaFp6T0RnOXlY/cmtwSXNQQ2FiRmxJ/bkllTktBZ1BZVXcu/anBn",
-            "points": -1,
+            "points": 2,
             "info": {
-                "headline": "Verbreitung von Informationen in den 1980er Jahren",
+                "headline": "Stalking",
                 "text": "In den 1980er Jahren war es deutlich schwieriger, Informationen über prominente Persönlichkeiten zu verbreiten. Medien wie Zeitungen und Fernsehen waren die Hauptquellen für Nachrichten, und das Sammeln privater Informationen erforderte oft persönliche Recherche und Vor-Ort-Besuche. Die Verbreitung von unerwünschten Bildern oder Informationen konnte so deutlich leichter verhindert oder verzögert werden."
             }
         },
@@ -17,9 +17,9 @@
             "headline": "Die sorgfältig gefaltete Zeitung auf deinem Küchentisch um Rat fragen",
             "text": "Sie antwortet mal wieder nicht, aber du findest einen kleinen Abschnitt am unteren Rand von Seite 13 - dort sind kleine freundliche Sonnen abgebildet, die dir zuzwinkern. \nDu ziehst deine Sonnenbrille auf, deine Hose hoch, und machst dich auf den Weg, nur um vor der Tür deiner Penthouse-Suite von strömendem Regen überrascht zu werden.",
             "image": "https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png",
-            "points": 2,
+            "points": 0,
             "info": {
-                "headline": "Verbreitung von Informationen in den 1980er Jahren",
+                "headline": "Stalking",
                 "text": "In den 1980er Jahren war es deutlich schwieriger, Informationen über prominente Persönlichkeiten zu verbreiten. Medien wie Zeitungen und Fernsehen waren die Hauptquellen für Nachrichten, und das Sammeln privater Informationen erforderte oft persönliche Recherche und Vor-Ort-Besuche. Die Verbreitung von unerwünschten Bildern oder Informationen konnte so leichter verhindert oder verzögert werden."
             }
         }
@@ -35,7 +35,7 @@
                 "headline": "TODO"
             },
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
+            "points": 1
         },
         "option2": {
             "headline": "„private“ Parkgarage mit Schranke",
@@ -44,7 +44,7 @@
             },
             "text": " Du fühlst dich wesentlich sicherer, bist aber etwas zu spät. Das kam deinem Arzt jedoch recht, da gerade viel los ist.",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
+            "points": -1
         }
     },
     {
@@ -55,9 +55,9 @@
             "headline": "Kleine Umfrage - Einheimische nach Tipps fragen",
             "text": "Ja, richtig, oder? Etwa 30 Minuten später sind Sie von überglücklichen Fans umgeben. Zum Glück kommt es nicht zu Gewalt, aber Essen ist nicht mehr das, woran Sie denken können - bis zu Ihrer Abreise gibt es jetzt ein ungeplantes und ungewolltes Fantreffen, für das Sie sogar von der Stadt Ärger bekommen könnten.",
             "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
-            "points": -3,
+            "points": -2,
             "info": {
-                "headline": "Unerwünschte Aufmerksamkeit von Fans",
+                "headline": "Aufmerksamkeit von Fans",
                 "text": "Als öffentliche Person war es auch vor der Zeit des Internets schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans konnte unerwartete und ungewollte Fantreffen zur Folge haben, die teils problematisch wurden. Aktive Kontaktaufnahme konnte solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb ein aktives Augenmerk auf Privatsphäre und persönliche Sicherheit gelegt werden musste."
             }
         },
@@ -65,9 +65,9 @@
             "headline": "Landkarte konsultieren",
             "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitgehend unerkannt und kannst in Ruhe essen.\nDenn persönliche Sicherheit war in den 1980er Jahren besonders wichtig, um ungewollte Aufmerksamkeit zu vermeiden.",
             "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
-            "points": 2,
+            "points": 3,
             "info": {
-                "headline": "Unerwünschte Aufmerksamkeit von Fans",
+                "headline": "Aufmerksamkeit von Fans",
                 "text": "Als öffentliche Person war es auch vor der Zeit des Internets schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans konnte unerwartete und ungewollte Fantreffen zur Folge haben, die teils problematisch wurden. Aktive Kontaktaufnahme konnte solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb ein aktives Augenmerk auf Privatsphäre und persönliche Sicherheit gelegt werden musste."
             }
         }
@@ -80,9 +80,9 @@
             "headline": "Mit dem größten Vergnügen!",
             "text": "Der Fan ist wunschlos glücklich und geht weiter",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 3,
+            "points": 2,
             "info": {
-                "headline": "Fan",
+                "headline": "Fan-Interaktionen",
                 "text": "In der Zeit der 1980er Jahre waren spontane Interaktionen mit Fans noch unengeschränkter positiv und unkompliziert. Ein Autogramm zu geben konnte die Verbindung zu den Fans stärken und das Image positiv beeinflussen."
             }
         },
@@ -92,7 +92,7 @@
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1,
             "info": {
-                "headline": "Fan",
+                "headline": "Fan-Interaktionen",
                 "text": "In der Zeit der 1980er Jahre waren spontane Interaktionen mit Fans nicht immer vorhersehbar. Ablehnende Reaktionen hatten zwar keine großen Konsequenzen, wohl aber das Potenzial, Ärger im kleinen Maßstab zu schüren"
             }
         }
@@ -105,9 +105,9 @@
             "headline": "PARTYYYYY",
             "text": "Du kannst dich im Nachhinein an kaum etwas erinnern, jedoch scheint die ganze Nachbarschaft mehr zu wissen als du. Zwei Jahre später erzählt einer deiner Starfreunde in einem Interview von deiner legendären Party, doch kein Reporter war rechtzeitig vor Ort.",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1,
+            "points": -2,
             "info": {
-                "headline": "Gepflegte Saufgelage",
+                "headline": "Auffälliges Verhalten",
                 "text": "In der Zeit der 1980er Jahre waren die Konsequenzen für öffentliche Personen aufgrund exzessiven Verhaltens weniger gravierend als heute. Bilder oder Berichte über solche Ereignisse konnten zwar das persönliche Image beeinträchtigen, hatten aber oft weniger geschäftliche Konsequenzen."
             }
         },
@@ -117,7 +117,7 @@
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": 2,
             "info": {
-                "headline": "Gepflegte Saufgelage",
+                "headline": "Auffälliges Verhalten",
                 "text": "In der Zeit der 1980er Jahre waren die Konsequenzen für öffentliche Personen aufgrund exzessiven Verhaltens weniger gravierend als heute. Das Vermeiden von exzessivem oder unangemessenem Verhalten konnte helfen, das persönliche Image zu wahren, jedoch waren negative Auswirkungen oft weniger stark ausgeprägt."
             }
         }
