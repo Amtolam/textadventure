@@ -1,53 +1,53 @@
 [
     {
-        "headline": "Morgenroutine",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-        "option1": {
-            "headline": "Vorhänge auf - einen schnellen Blick aus dem Fenster werfen",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
-        },
-        "option2": {
-            "headline": "Zeitung auf - erneut von deinem Wetterservice angelogen werden",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
-        }
-    },
-    {
-        "headline": "Mittagessen",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-        "option1": {
-            "headline": "Entgegenkommende nach Tipps fragen",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
-        },
-        "option2": {
-            "headline": "Stadtkarte bemühen",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
-        }
-    },
-    {
         "headline": "Parkplatzsuche",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
+        "text": "Du fährst in eine Stadt, die du kaum kennst. Kurz nach dem Ortsschild siehst du ein Plakat für ein großes Fest mit Politik vor Ort, welches gleich zwei Straßen neben der Praxis stattfindet. Auf dem Weg zu deinem Arzt Termin, überlegst du dir, wo du dein Auto parken könntest. Als du auf die Uhr schaust, siehst du, dass du spät dran bist.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
-            "headline": "Direkt vor dem Eingang - keine Zeit zu verlieren",
-            "text": "You're doing this",
+            "headline": "Öffentlicher Parkplatz neben Arzt",
+            "text": "Du parkst dein Auto sehr nah zum Eingang. Als du schon im Behandlungszimmer sitzt und auf den Arzt wartest, hoffst du, dass keiner dein Auto oder Kennzeichen erkennt.",
+            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "points": -1
+        },
+        "option2": {
+            "headline": "„private“ Parkgarage mit Schranke",
+            "text": " Du fühlst dich wesentlich sicherer, bist aber etwas zu spät. Das kam deinem Arzt jedoch recht, da gerade viel los ist.",
+            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "points": 1
+        }
+    },
+    {
+        "headline": "Fan",
+        "text": "Als du aus der Praxis gehst, siehst du das Fest weiter die Straße entlang schon voll im Gange. Plötzlich kommt eine Person auf dich zu gerannt und fragt dich, ob du ihr nicht ein Autogramm geben könntest?",
+        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "option1": {
+            "headline": "Mit dem größten Vergnügen!",
+            "text": "Der Fan ist wunschlos glücklich und geht weiter",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": 1
         },
         "option2": {
-            "headline": "Ein paar Blocks weiter auf einem privaten Parkplatz",
-            "text": "You're doing this",
+            "headline": "Lieber nicht",
+            "text": "Warum nicht? Kein anderer ist hier.Dein Fan ist sehr verwirrt und wird dich nun nicht mehr so sehen wie vorher.",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1
+        }
+    },
+    {
+        "headline": "Gepflegte Saufgelage",
+        "text": "Am Abend bist du mit deinen Freunden am Feiern. Ihr seid mittlerweile gut angetrunken, jedoch gehen euch die Getränke aus. Einer deiner Freunde schlägt vor, in eine Bar einzukehren. ",
+        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "option1": {
+            "headline": "PARTYYYYY",
+            "text": "Du kannst dich im Nachhinein an kaum etwas erinnern, jedoch scheint die ganze Nachbarschaft mehr zu wissen als du.",
+            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "points": -2
+        },
+        "option2": {
+            "headline": "Lieber nicht.",
+            "text": "Kurz ist die Stimmung im Keller, jedoch fällt dann jemanden ein, dass er noch etwas auf Lager hat.",
+            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "points": 2
         }
     }
 ]
