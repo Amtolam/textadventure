@@ -91,6 +91,7 @@ class SelectionPage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Text('Wähle dein Szenario', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
+                Text('Wähle dein Szenario', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
                 const SizedBox(height: 30),
                 ElevatedButton(
                   onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data.json"))),
@@ -198,6 +199,7 @@ class _AdventurePageState extends State<AdventurePage> {
                             builder: (context, constraints) {
                               final option1 = ElevatedButton(
                                 style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
+                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                                 onPressed: () => {
                                   setState(() {
                                     decisionData = null;
@@ -209,6 +211,7 @@ class _AdventurePageState extends State<AdventurePage> {
                               );
                               final option2 = ElevatedButton(
                                 style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
+                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                                 onPressed: () => {
                                   setState(() {
                                     decisionData = null;
@@ -216,6 +219,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                     points += consequenceData!.points;
                                   }),
                                 },
+                                child: Text(decisionData?.option2 ?? "<No option>", textAlign: TextAlign.center),
                                 child: Text(decisionData?.option2 ?? "<No option>", textAlign: TextAlign.center),
                               );
 
@@ -245,6 +249,7 @@ class _AdventurePageState extends State<AdventurePage> {
                           ),
                           if (consequenceData != null) ElevatedButton(
                             style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
+                            style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                             onPressed: () => {
                               setState(() {
                                 if (_data.length == id + 1) {
@@ -256,7 +261,9 @@ class _AdventurePageState extends State<AdventurePage> {
                                           mainAxisSize: MainAxisSize.min,
                                           children: [
                                             Text("Tag vorbei!", style: Theme.of(context).textTheme.headlineLarge),
+                                            Text("Tag vorbei!", style: Theme.of(context).textTheme.headlineLarge),
                                             const SizedBox(height: 20),
+                                            Text('Deine Entscheidungen haben dir $points Punkte eingebracht', style: Theme.of(context).textTheme.headlineMedium, textAlign: TextAlign.center),
                                             Text('Deine Entscheidungen haben dir $points Punkte eingebracht', style: Theme.of(context).textTheme.headlineMedium, textAlign: TextAlign.center),
                                             const SizedBox(height: 10),
                                             Text("Je mehr Punkte du hast, desto besser hast du dich an die Einflüsse angepasst, die globale Vernetzung auf deinen Alltag haben", textAlign: TextAlign.center,),
@@ -271,6 +278,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                                 // }),
                                                 Navigator.of(context).popUntil((_) => _.isFirst),
                                               },
+                                              child: const Text('Wiederholen'),
                                               child: const Text('Wiederholen'),
                                             ),
                                           ],
