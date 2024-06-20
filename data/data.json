@@ -50,31 +50,6 @@
         }
     },
     {
-        "headline": "Mittagessen",
-        "text": "Deinen Termin hast du hinter dich gebracht - doch nun sitzt du erstmal in Neuengrün fest, und dein Magen knurrt.\nFür ein gutes Essen würdest du jetzt alles geben. Wie findest du den richtigen Spot?",
-        "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2021/08/1629886761_Amerikanisches-Fast-Food.jpg",
-        "option1": {
-            "headline": "Kleine Story-Poll - Einheimische Fans wissen, was es in der Nähe gibt",
-            "text": "Ja, verkackt, ne? Nach 30min bist du von überglücklichen Fans umringt. \nGlücklicherweise kommt es nicht zur Gewalt, doch an Essen ist nicht mehr zu denken - bis zu deiner Abreise findet jetzt ein unangemeldetes und unfreiwilliges Fantreffen statt, für das du sogar von der Stadt Probleme bekommen könntest.",
-            "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
-            "points": -3,
-            "info": {
-                "headline": "Aufmerksamkeit von Fans",
-                "text": "Als öffentliche Person ist es schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans kann unerwartete und ungewollte Fantreffen zur Folge haben, die sowohl persönlich als auch beruflich problematisch werden können. Das Teilen von Informationen über Aufenthaltsorte auf sozialen Medien kann solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen."
-            }
-        },
-        "option2": {
-            "headline": "Google Maps bemühen",
-            "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitestgehend unerkannt und kannst in Ruhe essen.\nDenn das Internet macht es einfacher als je zuvor, dich aufzuspüren - und als Person des öffentlichen Lebens stellst du ein beliebtes 'Ziel' dar.",
-            "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
-            "points": 2,
-            "info": {
-                "headline": "Aufmerksamkeit von Fans",
-                "text": "Als öffentliche Person ist es schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans kann unerwartete und ungewollte Fantreffen zur Folge haben, die sowohl persönlich als auch beruflich problematisch werden können. Das Teilen von Informationen über Aufenthaltsorte auf sozialen Medien kann solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb aktiver Fokus auf Privatsphäre und Sicherheit gelegt werden muss."
-            }
-        }
-    },
-    {
         "headline": "Fan-Bilder",
         "text": "Als du aus der Praxis gehst, siehst du das Fest schon voll im Gange. Du siehst große AfD Plakate mit Werbesprüchen. Plötzlich kommt eine Person auf dich zu gerannt und fragt dich, ob ihr zusammen ein BeReal machen wollt. ",
         "image": "https://i.pinimg.com/474x/85/e4/99/85e499ab27bb23a865a60ff2d71e3290.jpg",
@@ -96,6 +71,31 @@
             "info": {
                 "headline": "Gerüchte",
                 "text": "Während schnelle Bilder mit Fans zwar oft harmlos sind, birgt die Interaktion mit Fans das Risiko, dass Missverständnisse oder falsche Gerüchte über dich verbreitet werden. Es ist wichtig, solche Situationen mit Bedacht zu handhaben und sich bewusst zu sein, wie deine Handlungen und Aussagen interpretiert werden könnten."
+            }
+        }
+    },
+    {
+        "headline": "Mittagessen",
+        "text": "Deinen Termin hast du hinter dich gebracht - doch nun sitzt du erstmal in Neuengrün fest, und dein Magen knurrt.\nFür ein gutes Essen würdest du jetzt alles geben. Wie findest du den richtigen Spot?",
+        "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2021/08/1629886761_Amerikanisches-Fast-Food.jpg",
+        "option1": {
+            "headline": "Kleine Story-Poll - Einheimische Fans wissen, was es in der Nähe gibt",
+            "text": "Ja, verkackt, ne? Nach 30min bist du von überglücklichen Fans umringt. \nGlücklicherweise kommt es nicht zur Gewalt, doch an Essen ist nicht mehr zu denken - bis zu deiner Abreise findet jetzt ein unangemeldetes und unfreiwilliges Fantreffen statt, für das du sogar von der Stadt Probleme bekommen könntest.",
+            "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
+            "points": -3,
+            "info": {
+                "headline": "Aufmerksamkeit von Fans",
+                "text": "Als öffentliche Person ist es schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans kann unerwartete und ungewollte Fantreffen zur Folge haben, die sowohl persönlich als auch beruflich problematisch werden können. Das Teilen von Informationen über Aufenthaltsorte auf sozialen Medien kann solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen."
+            }
+        },
+        "option2": {
+            "headline": "Google Maps bemühen",
+            "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitestgehend unerkannt und kannst in Ruhe essen.\nDenn das Internet macht es einfacher als je zuvor, dich aufzuspüren - und als Person des öffentlichen Lebens stellst du ein beliebtes 'Ziel' dar.",
+            "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
+            "points": 2,
+            "info": {
+                "headline": "Aufmerksamkeit von Fans",
+                "text": "Als öffentliche Person ist es schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans kann unerwartete und ungewollte Fantreffen zur Folge haben, die sowohl persönlich als auch beruflich problematisch werden können. Das Teilen von Informationen über Aufenthaltsorte auf sozialen Medien kann solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb aktiver Fokus auf Privatsphäre und Sicherheit gelegt werden muss."
             }
         }
     },

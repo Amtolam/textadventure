@@ -48,31 +48,6 @@
         }
     },
     {
-        "headline": "Mittagessen",
-        "text": "Deinen Termin hast du hinter dich gebracht - doch nun sitzt du erstmal in Neuengrün fest, und dein Magen knurrt.\nFür ein gutes Essen würdest du jetzt alles geben. Wie findest du den richtigen Spot?",
-        "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2021/08/1629886761_Amerikanisches-Fast-Food.jpg",
-        "option1": {
-            "headline": "Kleine Umfrage - Einheimische nach Tipps fragen",
-            "text": "Ja, richtig, oder? Etwa 30 Minuten später sind Sie von überglücklichen Fans umgeben. Zum Glück kommt es nicht zu Gewalt, aber Essen ist nicht mehr das, woran Sie denken können - bis zu Ihrer Abreise gibt es jetzt ein ungeplantes und ungewolltes Fantreffen, für das Sie sogar von der Stadt Ärger bekommen könnten.",
-            "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
-            "points": -2,
-            "info": {
-                "headline": "Aufmerksamkeit von Fans",
-                "text": "Als öffentliche Person war es auch vor der Zeit des Internets schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans konnte unerwartete und ungewollte Fantreffen zur Folge haben, die teils problematisch wurden. Aktive Kontaktaufnahme konnte solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb ein aktives Augenmerk auf Privatsphäre und persönliche Sicherheit gelegt werden musste."
-            }
-        },
-        "option2": {
-            "headline": "Landkarte konsultieren",
-            "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitgehend unerkannt und kannst in Ruhe essen.\nDenn persönliche Sicherheit war in den 1980er Jahren besonders wichtig, um ungewollte Aufmerksamkeit zu vermeiden.",
-            "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
-            "points": 3,
-            "info": {
-                "headline": "Aufmerksamkeit von Fans",
-                "text": "Als öffentliche Person war es auch vor der Zeit des Internets schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans konnte unerwartete und ungewollte Fantreffen zur Folge haben, die teils problematisch wurden. Aktive Kontaktaufnahme konnte solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb ein aktives Augenmerk auf Privatsphäre und persönliche Sicherheit gelegt werden musste."
-            }
-        }
-    },
-    {
         "headline": "Fan",
         "text": "Als du aus der Praxis gehst, siehst du das Fest weiter die Straße entlang schon voll im Gange. Plötzlich kommt eine Person auf dich zu gerannt und fragt dich, ob du ihr nicht ein Autogramm geben könntest?",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
@@ -94,6 +69,31 @@
             "info": {
                 "headline": "Fan-Interaktionen",
                 "text": "In der Zeit der 1980er Jahre waren spontane Interaktionen mit Fans nicht immer vorhersehbar. Ablehnende Reaktionen hatten zwar keine großen Konsequenzen, wohl aber das Potenzial, Ärger im kleinen Maßstab zu schüren"
+            }
+        }
+    },
+    {
+        "headline": "Mittagessen",
+        "text": "Deinen Termin hast du hinter dich gebracht - doch nun sitzt du erstmal in Neuengrün fest, und dein Magen knurrt.\nFür ein gutes Essen würdest du jetzt alles geben. Wie findest du den richtigen Spot?",
+        "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2021/08/1629886761_Amerikanisches-Fast-Food.jpg",
+        "option1": {
+            "headline": "Kleine Umfrage - Einheimische nach Tipps fragen",
+            "text": "Ja, richtig, oder? Etwa 30 Minuten später sind Sie von überglücklichen Fans umgeben. Zum Glück kommt es nicht zu Gewalt, aber Essen ist nicht mehr das, woran Sie denken können - bis zu Ihrer Abreise gibt es jetzt ein ungeplantes und ungewolltes Fantreffen, für das Sie sogar von der Stadt Ärger bekommen könnten.",
+            "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
+            "points": -2,
+            "info": {
+                "headline": "Aufmerksamkeit von Fans",
+                "text": "Als öffentliche Person war es auch vor der Zeit des Internets schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans konnte unerwartete und ungewollte Fantreffen zur Folge haben, die teils problematisch wurden. Aktive Kontaktaufnahme konnte solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb ein aktives Augenmerk auf Privatsphäre und persönliche Sicherheit gelegt werden musste."
+            }
+        },
+        "option2": {
+            "headline": "Landkarte konsultieren",
+            "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitgehend unerkannt und kannst in Ruhe essen.\nDenn persönliche Sicherheit war in den 1980er Jahren besonders wichtig, um ungewollte Aufmerksamkeit zu vermeiden.",
+            "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
+            "points": 3,
+            "info": {
+                "headline": "Aufmerksamkeit von Fans",
+                "text": "Als öffentliche Person war es auch vor der Zeit des Internets schwierig, in der Öffentlichkeit unerkannt zu bleiben. Die Nähe zu Fans konnte unerwartete und ungewollte Fantreffen zur Folge haben, die teils problematisch wurden. Aktive Kontaktaufnahme konnte solche Situationen verstärken und zu unerwünschter Aufmerksamkeit führen, weshalb ein aktives Augenmerk auf Privatsphäre und persönliche Sicherheit gelegt werden musste."
             }
         }
     },
