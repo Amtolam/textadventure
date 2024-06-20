@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Celebrities und Privacy',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 0, 160, 107)),
       ),
@@ -90,17 +90,17 @@ class SelectionPage extends StatelessWidget {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Text('Select your adventure', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
+                Text('Wähle dein Szenario', style: Theme.of(context).textTheme.headlineLarge, textAlign: TextAlign.center),
                 const SizedBox(height: 30),
                 ElevatedButton(
                   onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data.json"))),
-                  child: const Text('Modern life'),
+                  child: const Text("Influencer 2024"),
                   style: ElevatedButton.styleFrom(fixedSize: const Size.fromHeight(70), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))),
                 ),
                 const SizedBox(height: 10),
                 ElevatedButton(
                   onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => AdventurePage(source: "data/data_old.json"))),
-                  child: const Text('Pre-World Wide Web life'),
+                  child: const Text('Popstar 1987'),
                   style: ElevatedButton.styleFrom(fixedSize: const Size.fromHeight(70), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))),
                 ),
               ],
@@ -256,11 +256,11 @@ class _AdventurePageState extends State<AdventurePage> {
                                         child: Column(
                                           mainAxisSize: MainAxisSize.min,
                                           children: [
-                                            Text("Day over!", style: Theme.of(context).textTheme.headlineLarge),
+                                            Text("Tag vorbei!", style: Theme.of(context).textTheme.headlineLarge),
                                             const SizedBox(height: 20),
-                                            Text('Your decisions resulted in $points points.', style: Theme.of(context).textTheme.headlineMedium, textAlign: TextAlign.center),
+                                            Text('Deine Entscheidungen haben dir $points Punkte eingebracht', style: Theme.of(context).textTheme.headlineMedium, textAlign: TextAlign.center),
                                             const SizedBox(height: 10),
-                                            Text("The more points you have, the more you adapted to the effects that the world wide web has on your daily life.", textAlign: TextAlign.center,),
+                                            Text("Je mehr Punkte du hast, desto besser hast du dich an die Auswirkungen angepasst, die das World Wide Web auf dein tägliches Leben hat.", textAlign: TextAlign.center,),
                                             const SizedBox(height: 20),
                                             ElevatedButton(
                                               onPressed: () => {
@@ -272,7 +272,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                                 // }),
                                                 Navigator.of(context).popUntil((_) => _.isFirst),
                                               },
-                                              child: const Text('Restart'),
+                                              child: const Text('Wiederholen'),
                                             ),
                                           ],
                                         ),
@@ -286,13 +286,12 @@ class _AdventurePageState extends State<AdventurePage> {
                                 decisionData = DecisionData.fromJson(_data[id]);
                               }),
                             },
-                            child: const Text('Continue', textAlign: TextAlign.center),
+                            child: const Text('Weiter', textAlign: TextAlign.center),
                           ),
                         ],
                       ),
                     ),
                   ),
-                  
                 ],
               ),
             ),
