@@ -6,6 +6,10 @@
         "option1": {
             "headline": "Vorhänge auf - einen schnellen Blick aus dem Fenster werfen",
             "text": "Nach einem kurzen Blick in den wolkenlosen Himmel fällt dir der weiße Van an der Ecke auf, der dort vor einigen Tagen schon zu sehen war. \nDu glaubst, ein Aufblitzen hinter den abgedunkelten Scheiben zu entdecken, bervor des Gefährt startet und vorerst wieder verschwindet.\nEntsetzt meldest du den Vorfall deinem Manager, der dir rät, die Polizei zu informieren.",
+            "info": {
+                "headline": "Stalking",
+                "text": "Supaschlecht, mach das nicht bitte, mein dude, lass es einfach, das ist nicht cool."
+            },
             "image": "https://imgs.search.brave.com/Pxu9ps8V9SAhWrj2eVrcIoeJFlLucSkdJNDpQETMpEE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzA1LzAxLzgz/LzM2MF9GXzUwMTgz/OTdfaFp6T0RnOXlY/cmtwSXNQQ2FiRmxJ/bkllTktBZ1BZVXcu/anBn",
             "points": -1
         },
