@@ -1,87 +1,87 @@
 [
     {
-        "headline": "This is a headline",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "headline": "Morgenroutine",
+        "text": "Nach einer erholsamen Nacht fällst du ausgeschlafen aus dem Bett. Du willst den Tag, wie üblich, mit einer Story starten, doch bevor du dich deinen 860 000 Followern präsentierst, gilt es erstmal, sich frisch zu machen und ein Outfit zu wählen. \nAuf dem Weg ins Bad fällt dir ein, dass du direkt um 12 außerhalb erwartet wirst - du musst dich also wettertauglich anziehen. \n\nWie stellst du das an?",
+        "image": "https://images.squarespace-cdn.com/content/v1/57b5ef68c534a5cc06edc769/a4deb541-e732-4a2f-92fb-866903f7f6cc/how-to-become-a-morning-person",
         "option1": {
-            "headline": "Do this thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
+            "headline": "Vorhänge auf - einen schnellen Blick aus dem Fenster werfen",
+            "text": "Nach einem kurzen Blick in den wolkenlosen Himmel fällt dir der weiße Van an der Ecke auf, der dort vor einigen Tagen schon zu sehen war. \nDu glaubst, ein Aufblitzen hinter den abgedunkelten Scheiben zu entdecken, bervor des Gefährt startet und vorerst wieder verschwindet.\nEntsetzt meldest du den Vorfall deinem Manager, der dir rät, die Polizei zu informieren.",
+            "image": "https://imgs.search.brave.com/Pxu9ps8V9SAhWrj2eVrcIoeJFlLucSkdJNDpQETMpEE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzA1LzAxLzgz/LzM2MF9GXzUwMTgz/OTdfaFp6T0RnOXlY/cmtwSXNQQ2FiRmxJ/bkllTktBZ1BZVXcu/anBn",
+            "points": -1
         },
         "option2": {
-            "headline": "Do that thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
+            "headline": "Handy raus - erneut von deinem Wetterservice angelogen werden",
+            "text": "Zwei unterschiedliche Apps behaupten mal wieder zwei unterschiedliche Dinge. \nDu stellst dich auf Regen ein und opferst damit etwas Eleganz - obwohl der wolkenlose Himmel dir etwas anderes verraten hätte. Doch eine größere Belstung hast du abgewendet - denn gesetzesbrechende Fans und Bild-Redakteure sind für ein Foto von dir in deinem Morgen-Look bereit, zu weit zu gehen.    ",
+            "image": "https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png",
+            "points": 2
         }
     },
     {
-        "headline": "This is a headline 2",
-        "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "headline": "Mittagessen",
+        "text": "Deinen Termin hast du hinter dich gebracht - doch nun sitzt du erstmal in Neuengrün fest, und dein Magen knurrt.\nFür ein gutes Essen würdest du jetzt alles geben. Wie findest du den richtigen Spot?",
+        "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2021/08/1629886761_Amerikanisches-Fast-Food.jpg",
         "option1": {
-            "headline": "Do this thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
+            "headline": "Kleine Story-Poll - Einheimische Fans wissen, was es in der Nähe gibt",
+            "text": "Ja, verkackt, ne? Nach 30min bist du von überglücklichen Fans umringt. \nGlücklicherweise kommt es nicht zur Gewalt, doch an Essen ist nicht mehr zu denken - bis zu deiner Abreise findet jetzt ein unangemeldetes und unfreiwilliges Fantreffen statt, für dass du sogar von der Stadt Probleme bekommen könntest.",
+            "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
+            "points": -3
         },
         "option2": {
-            "headline": "Do that thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
+            "headline": "Google Maps bemühen",
+            "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitestgehend unerkannt und kannst in Ruhe essen.\nDenn das Internet macht es einfacher als je zuvor, dich aufzuspüren - und als Person des öffentlichen Lebens stellst du ein beliebtes 'Ziel' dar.",
+            "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
+            "points": 2
         }
     },
     {
-        "headline": "This is a headline 3",
+        "headline": "Fan-Bilder",
         "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
-            "headline": "Do this thing",
+            "headline": "Sorry, aber ich muss weiter",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
+            "points": 2
         },
         "option2": {
-            "headline": "Do that thing",
+            "headline": "Klar bro, für dich doch immer",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
+            "points": -2
         }
     },
     {
-        "headline": "This is a headline 4",
+        "headline": "Parkplatzsuche",
         "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-        "option1": {
-            "headline": "Do this thing",
-            "text": "You're doing this",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
-        },
         "option2": {
-            "headline": "Do that thing",
+            "headline": "Direkt vor dem Eingang - keine Zeit zu verlieren",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1
+        },
+        "option1": {
+            "headline": "Ein paar Blocks weiter auf einem privaten Parkplatz",
+            "text": "You're doing this",
+            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "points": 1
         }
     },
     {
-        "headline": "This is a headline 5",
+        "headline": "Exzesse",
         "text": "Officia mollit labore esse ad irure amet Lorem veniam quis. Occaecat cupidatat exercitation magna occaecat. Ullamco laborum cupidatat fugiat irure ipsum ut adipisicing dolor. Labore incididunt aliquip eiusmod et in adipisicing in ipsum consectetur deserunt proident. Sit qui exercitation ad dolore reprehenderit elit nulla non. Culpa in aute minim dolore exercitation incididunt laboris nisi.",
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
-            "headline": "Do this thing",
+            "headline": "Geiiiiiiiiiiil 🍺",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": 1
+            "points": -4
         },
         "option2": {
-            "headline": "Do that thing",
+            "headline": "Cmon, lass hier bleiben",
             "text": "You're doing this",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
-            "points": -1
+            "points": 3
         }
     }
 ]

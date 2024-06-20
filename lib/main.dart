@@ -197,7 +197,7 @@ class _AdventurePageState extends State<AdventurePage> {
                           if (decisionData != null) LayoutBuilder(
                             builder: (context, constraints) {
                               final option1 = ElevatedButton(
-                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable),
+                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                                 onPressed: () => {
                                   setState(() {
                                     decisionData = null;
@@ -205,10 +205,10 @@ class _AdventurePageState extends State<AdventurePage> {
                                     points += consequenceData!.points;
                                   }),
                                 },
-                                child: Text(decisionData?.option1 ?? "<No option>"),
+                                child: Text(decisionData?.option1 ?? "<No option>", textAlign: TextAlign.center,),
                               );
                               final option2 = ElevatedButton(
-                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable),
+                                style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                                 onPressed: () => {
                                   setState(() {
                                     decisionData = null;
@@ -216,7 +216,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                     points += consequenceData!.points;
                                   }),
                                 },
-                                child: Text(decisionData?.option2 ?? "<No option>"),
+                                child: Text(decisionData?.option2 ?? "<No option>", textAlign: TextAlign.center),
                               );
 
                               if (constraints.maxWidth > 600) {
@@ -245,7 +245,7 @@ class _AdventurePageState extends State<AdventurePage> {
                             },
                           ),
                           if (consequenceData != null) ElevatedButton(
-                            style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable),
+                            style: ElevatedButton.styleFrom(visualDensity: VisualDensity.comfortable, fixedSize: const Size.fromHeight(70)),
                             onPressed: () => {
                               setState(() {
                                 if (_data.length == id + 1) {
@@ -286,7 +286,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                 decisionData = DecisionData.fromJson(_data[id]);
                               }),
                             },
-                            child: const Text('Continue'),
+                            child: const Text('Continue', textAlign: TextAlign.center),
                           ),
                         ],
                       ),
