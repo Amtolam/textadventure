@@ -95,13 +95,19 @@ class _AdventurePageState extends State<AdventurePage> {
                               child: Padding(
                                 padding: const EdgeInsets.all(15),
                                 child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.stretch,
                                   children: [
                                     Row(
                                       crossAxisAlignment: CrossAxisAlignment.center,
                                       children: [
                                         Icon(Icons.info, color: Theme.of(context).colorScheme.onSecondary),
                                         const SizedBox(width: 15),
-                                        Text(consequenceData?.infoHeadline ?? "<No info>", style: Theme.of(context).textTheme.bodyLarge?.copyWith(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.onSecondary)),
+                                        Expanded(child: Text(consequenceData?.infoHeadline ?? "<No info>", overflow: TextOverflow.fade, style: Theme.of(context).textTheme.bodyLarge?.copyWith(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.onSecondary))),
+                                        const SizedBox(width: 15),
+                                        AnimatedDetail(
+                                          icon: const Icon(Icons.auto_awesome),
+                                          detail: const Text("KI-assistiert")
+                                        )
                                       ],
                                     ),
                                     const SizedBox(height: 10),
@@ -185,6 +191,50 @@ class _AdventurePageState extends State<AdventurePage> {
               ),
             ),
           ),
+      ),
+    );
+  }
+}
+
+class AnimatedDetail extends StatefulWidget {
+  final Widget icon;
+  final Widget detail;
+
+  const AnimatedDetail({
+    super.key, required this.icon, required this.detail
+  });
+
+  @override
+  State<AnimatedDetail> createState() => _AnimatedDetailState();
+}
+
+class _AnimatedDetailState extends State<AnimatedDetail> {
+  bool expanded = false;
+
+  @override
+  Widget build(BuildContext context) {
+    return TapRegion(
+      onTapInside: (_) => setState(() {
+          expanded ^= true;
+        }),
+      onTapOutside: (_) => setState(() {
+          expanded = false;
+        }),
+      child: FilledButton.tonal(
+        onHover: (hovered) => setState(() {
+          expanded = hovered;
+        }),
+        onPressed: () {},
+        style: ButtonStyle(visualDensity: VisualDensity.compact),
+        child: Row(
+          children: [
+            widget.icon,
+            AnimatedSize(
+              duration: Durations.short4,
+              child: expanded ? Padding(padding: const EdgeInsets.only(left: 8), child: widget.detail) : const SizedBox.shrink(),
+            )
+          ]
+        )
       ),
     );
   }
