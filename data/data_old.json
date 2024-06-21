@@ -27,7 +27,7 @@
     {
         "headline": "Parkplatzsuche",
         "text": "Du fährst in eine Stadt, die du kaum kennst. Kurz nach dem Ortsschild siehst du ein Plakat für ein großes Fest mit Politik vor Ort, welches gleich zwei Straßen neben der Praxis stattfindet. Auf dem Weg zu deinem Arzt Termin, überlegst du dir, wo du dein Auto parken könntest. Als du auf die Uhr schaust, siehst du, dass du spät dran bist.",
-        "image": "https://github.com/toasdn/textadventure/blob/main/data/images/1000031741-Photoroom.png",
+        "image": "https://github.com/toasdn/textadventure/blob/main/data/images/1000031741-Photoroom.png?raw=true",
         "option1": {
             "headline": "Öffentlicher Parkplatz neben Arzt",
             "text": "Du parkst dein Auto sehr nah zum Eingang. Grade noch rechtzeitig kommst du ungesehen in die Praxis gewirbelt. Es ist zwar nicht unwahrscheinlich, dass du dir einen Strafzettel holst, aber wenigstens hast du es unbehelligt geschafft.",
