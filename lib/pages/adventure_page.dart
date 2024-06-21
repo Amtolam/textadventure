@@ -32,6 +32,7 @@ class _AdventurePageState extends State<AdventurePage> {
 
   void loadData() async {
     _data = jsonDecode(await rootBundle.loadString(widget.source));
+    precacheImage(Image.network(_data[id]["image"]).image, context);
     precacheImage(Image.network(_data[id]["option1"]["image"]).image, context);
     precacheImage(Image.network(_data[id]["option2"]["image"]).image, context);
     setState(() {decisionData = DecisionData.fromJson(_data[id]);});
