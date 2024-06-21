@@ -30,19 +30,21 @@
         "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
         "option1": {
             "headline": "Öffentlicher Parkplatz neben Arzt",
-            "text": "Du parkst dein Auto sehr nah zum Eingang. Als du schon im Behandlungszimmer sitzt und auf den Arzt wartest, hoffst du, dass keiner dein Auto oder Kennzeichen erkennt.",
+            "text": "Du parkst dein Auto sehr nah zum Eingang. Grade noch rechtzeitig kommst du ungesehen in die Praxis gewirbelt. Es ist zwar nicht unwahrscheinlich, dass du dir einen Strafzettel holst, aber wenigstens hast du es unbehelligt geschafft.",
             "info": {
-                "headline": "TODO"
+                "headline": "Erkanntwerden",
+                "text": "In den 1980er Jahren wurden Prominente zwar leicht in Person erkannt, aber es war selten, dass jemand ihr Auto oder anderen Besitz kannte. So war es oft einfacher, in der Öffentlichkeit unerkannt zu bleiben, solange man nicht direkt gesehen wurde."
             },
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": 1
         },
         "option2": {
             "headline": "„private“ Parkgarage mit Schranke",
+            "text": "Du fühlst dich wesentlich sicherer, bist aber jetzt wirklich spät dran. Doch kaum hast du zwei Schritte Richtung Praxis gemacht, wirst du erkannt und angesprochen. Bis du den Fan abgewimmelt hast, sind zwei weitere Minuten vergangen. Du kommst zu spät in die Praxis, und musst dich zwar nicht entschuldigen, fame regelt, aber dieser Stress wäre vermeidbar gewesen.",
             "info": {
-                "headline": "TODO"
+                "headline": "Erkanntwerden",
+                "text": "In den 1980er Jahren wurden Prominente leicht in Person erkannt, aber aufgrund geringerer Verfügbarkeit von Informationen musste man sich kaum um Erkennung von Besitz machen. Das Parken an einem öffentlichen Ort konnte unerkannt gelingen, aber eine private Parkgarage bot zusätzliche Sicherheit, war jedoch zeitaufwändiger und riskierte Begegnungen mit Fans."
             },
-            "text": " Du fühlst dich wesentlich sicherer, bist aber etwas zu spät. Das kam deinem Arzt jedoch recht, da gerade viel los ist.",
             "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
             "points": -1
         }
@@ -78,7 +80,7 @@
         "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2021/08/1629886761_Amerikanisches-Fast-Food.jpg",
         "option1": {
             "headline": "Kleine Umfrage - Einheimische nach Tipps fragen",
-            "text": "Ja, richtig, oder? Etwa 30 Minuten später sind Sie von überglücklichen Fans umgeben. Zum Glück kommt es nicht zu Gewalt, aber Essen ist nicht mehr das, woran Sie denken können - bis zu Ihrer Abreise gibt es jetzt ein ungeplantes und ungewolltes Fantreffen, für das Sie sogar von der Stadt Ärger bekommen könnten.",
+            "text": "Ja, richtig, oder? Etwa 30 Minuten später bist du von ein paar überglücklichen Fans umgeben. Zum Glück kommt es nicht zu Gewalt, aber Essen ist nicht mehr das, woran du denken kannst - bis zu deiner Abreise gibt es jetzt ein ungeplantes und ungewolltes Fantreffen, für das du sogar von der Stadt Ärger bekommen könntest.",
             "image": "https://media.istockphoto.com/id/1461816749/de/foto/eine-menschenmenge-mit-erhobenen-armen-w%C3%A4hrend-eines-musikkonzerts-mit-einer-erstaunlichen.jpg?s=612x612&w=0&k=20&c=pADBMPgk65iRggZEg-cNp3Ia88PPRA1WZV2NboBPiaQ=",
             "points": -2,
             "info": {
