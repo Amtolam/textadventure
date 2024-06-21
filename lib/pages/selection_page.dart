@@ -7,7 +7,7 @@ class SelectionPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      persistentFooterButtons: [const Text("v1.1.1")],
+      persistentFooterButtons: [const Text("v1.2.0")],
       body: Padding(
         padding: const EdgeInsets.all(30),
         child: Center(
