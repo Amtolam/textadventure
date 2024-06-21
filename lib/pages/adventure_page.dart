@@ -126,6 +126,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                   setState(() {
                                     decisionData = null;
                                     consequenceData = ConsequenceData.fromJson(_data[id]["option1"]);
+                                    if (id + 1 < _data.length) precacheImage(Image.network(_data[id+1]["image"]).image, context);
                                     points += consequenceData!.points;
                                   }),
                                 },
@@ -137,6 +138,7 @@ class _AdventurePageState extends State<AdventurePage> {
                                   setState(() {
                                     decisionData = null;
                                     consequenceData = ConsequenceData.fromJson(_data[id]["option2"]);
+                                    if (id + 1 < _data.length) precacheImage(Image.network(_data[id+1]["image"]).image, context);
                                     points += consequenceData!.points;
                                   }),
                                 },
@@ -177,6 +179,8 @@ class _AdventurePageState extends State<AdventurePage> {
                                 }
                                 id += 1;
                                 consequenceData = null;
+                                precacheImage(Image.network(_data[id]["option1"]["image"]).image, context);
+                                precacheImage(Image.network(_data[id]["option2"]["image"]).image, context);
                                 decisionData = DecisionData.fromJson(_data[id]);
                               }),
                             },
