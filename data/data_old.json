@@ -2,11 +2,11 @@
     {
         "headline": "Morgenroutine",
         "text": "Nach einer erholsamen Nacht fällst du ausgeschlafen aus dem Bett. Du surfst auf einer Welle des Erfolges, seit du vor drei Monaten den Welthit 'Never gonna give you up' veröffentlicht hast, und so wartet auch heute ein mit Terminen gefüllter Tag auf dich.\nNach deinem Morgenkaffee rennst du energetisch herum, dann schlurfst du ins luxuriös eingerichtete Bad - du musst dich jetzt wettertauglich anziehen. \n\nWie stellst du das an?",
-        "image": "https://images.squarespace-cdn.com/content/v1/57b5ef68c534a5cc06edc769/a4deb541-e732-4a2f-92fb-866903f7f6cc/how-to-become-a-morning-person",
+        "image": "https://images.unsplash.com/photo-1583135720045-3183e663ab28?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2FraW5nJTIwdXB8ZW58MHx8MHx8fDA%3D",
         "option1": {
             "headline": "Vorhänge auf - einen schnellen Blick aus dem Fenster werfen",
             "text": "Der strömende Regen dämpft zwar deine Stimmung, aber du freust dich über den Anblick des menschenleeren Anwesens. Seit Reporter der Bild-Zeitung dir vor einigen Wochen nach Hause folgten und Fotos schossen, bist du etwas nervös, aber durch eine Flut von Klagen deines Teams konntest du die Veröffentlichung - und weitere Vorfälle dieser Art - glücklicherweise erstmal verhindern. Du wickelst dich in Frischhaltefolie ein und verlässt gleichmäßig hüpfend das Haus.",
-            "image": "https://imgs.search.brave.com/Pxu9ps8V9SAhWrj2eVrcIoeJFlLucSkdJNDpQETMpEE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzA1LzAxLzgz/LzM2MF9GXzUwMTgz/OTdfaFp6T0RnOXlY/cmtwSXNQQ2FiRmxJ/bkllTktBZ1BZVXcu/anBn",
+            "image": "https://images.unsplash.com/photo-1523191339508-68905a77d5e7?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ODBzJTIwbG9vayUyMG91dCUyMHdpbmRvd3xlbnwwfHwwfHx8MA%3D%3D",
             "points": 2,
             "info": {
                 "headline": "Stalking",
@@ -16,7 +16,7 @@
         "option2": {
             "headline": "Die sorgfältig gefaltete Zeitung auf deinem Küchentisch um Rat fragen",
             "text": "Sie antwortet mal wieder nicht, aber du findest einen kleinen Abschnitt am unteren Rand von Seite 13 - dort sind kleine freundliche Sonnen abgebildet, die dir zuzwinkern. \nDu ziehst deine Sonnenbrille auf, deine Hose hoch, und machst dich auf den Weg, nur um vor der Tür deiner Penthouse-Suite von strömendem Regen überrascht zu werden.",
-            "image": "https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png",
+            "image": "https://images.unsplash.com/photo-1704174801706-6cfae08aef3e?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b2xkJTIwbmV3c3BhcGVyJTIwb24lMjB0YWJsZXxlbnwwfHwwfHx8MA%3D%3D",
             "points": 0,
             "info": {
                 "headline": "Stalking",
@@ -27,7 +27,7 @@
     {
         "headline": "Parkplatzsuche",
         "text": "Du fährst in eine Stadt, die du kaum kennst. Kurz nach dem Ortsschild siehst du ein Plakat für ein großes Fest mit Politik vor Ort, welches gleich zwei Straßen neben der Praxis stattfindet. Auf dem Weg zu deinem Arzt Termin, überlegst du dir, wo du dein Auto parken könntest. Als du auf die Uhr schaust, siehst du, dass du spät dran bist.",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "image": "https://github.com/toasdn/textadventure/blob/main/data/images/1000031741-Photoroom.png",
         "option1": {
             "headline": "Öffentlicher Parkplatz neben Arzt",
             "text": "Du parkst dein Auto sehr nah zum Eingang. Grade noch rechtzeitig kommst du ungesehen in die Praxis gewirbelt. Es ist zwar nicht unwahrscheinlich, dass du dir einen Strafzettel holst, aber wenigstens hast du es unbehelligt geschafft.",
@@ -35,7 +35,7 @@
                 "headline": "Erkanntwerden",
                 "text": "In den 1980er Jahren wurden Prominente zwar leicht in Person erkannt, aber es war selten, dass jemand ihr Auto oder anderen Besitz kannte. So war es oft einfacher, in der Öffentlichkeit unerkannt zu bleiben, solange man nicht direkt gesehen wurde."
             },
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "image": "https://images.unsplash.com/photo-1523362612182-052e9ff2c8da?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b2xkJTIwcGFya2luZyUyMHNwb3R8ZW58MHx8MHx8fDA%3D",
             "points": 1
         },
         "option2": {
@@ -45,18 +45,18 @@
                 "headline": "Erkanntwerden",
                 "text": "In den 1980er Jahren wurden Prominente leicht in Person erkannt, aber aufgrund geringerer Verfügbarkeit von Informationen musste man sich kaum um Erkennung von Besitz machen. Das Parken an einem öffentlichen Ort konnte unerkannt gelingen, aber eine private Parkgarage bot zusätzliche Sicherheit, war jedoch zeitaufwändiger und riskierte Begegnungen mit Fans."
             },
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "image": "https://images.unsplash.com/photo-1536048284960-eb628c365abb?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "points": -1
         }
     },
     {
         "headline": "Fan",
         "text": "Als du aus der Praxis gehst, siehst du das Fest weiter die Straße entlang schon voll im Gange. Plötzlich kommt eine Person auf dich zu gerannt und fragt dich, ob du ihr nicht ein Autogramm geben könntest?",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "image": "https://plus.unsplash.com/premium_photo-1689248943859-f0d1fa0df9ad?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVzeSUyMGNpdHklMjBjZW50ZXJ8ZW58MHx8MHx8fDA%3D",
         "option1": {
             "headline": "Mit dem größten Vergnügen!",
             "text": "Der Fan ist wunschlos glücklich und geht weiter",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "image": "https://plus.unsplash.com/premium_photo-1661963812677-0314a5808cd4?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNlbGVicml0eSUyMGF1dG9ncmFwaHxlbnwwfHwwfHx8MA%3D%3D",
             "points": 2,
             "info": {
                 "headline": "Fan-Interaktionen",
@@ -66,7 +66,7 @@
         "option2": {
             "headline": "Lieber nicht",
             "text": "Warum nicht? Kein anderer ist hier. Dein Fan ist sehr verwirrt und wird dich nun nicht mehr so sehen wie vorher.",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "image": "https://images.unsplash.com/photo-1494158064015-7ff877b5bb2b?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2NvcmUlMjBkb3dufGVufDB8fDB8fHww",
             "points": -1,
             "info": {
                 "headline": "Fan-Interaktionen",
@@ -89,9 +89,9 @@
             }
         },
         "option2": {
-            "headline": "Landkarte konsultieren",
+            "headline": "Stadtkarte konsultieren",
             "text": "Auch hier - die klügere Wahl.\nWährend du wohl auf einen Geheimtipp verzichten musst, bleibst du zumindest weitgehend unerkannt und kannst in Ruhe essen.\nDenn persönliche Sicherheit war in den 1980er Jahren besonders wichtig, um ungewollte Aufmerksamkeit zu vermeiden.",
-            "image": "https://i2.wp.com/androidmag.de/wp-content/uploads/2019/04/google-maps.jpg?fit=660%2C396&ssl=1",
+            "image": "https://images.unsplash.com/photo-1543191878-f6a3e470454e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "points": 3,
             "info": {
                 "headline": "Aufmerksamkeit von Fans",
@@ -102,11 +102,11 @@
     {
         "headline": "Gepflegte Saufgelage",
         "text": "Am Abend bist du mit deinen Freunden am Feiern. Ihr seid mittlerweile gut angetrunken, jedoch gehen euch die Getränke aus. Einer deiner Freunde schlägt vor, in eine Bar einzukehren. ",
-        "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+        "image": "https://plus.unsplash.com/premium_photo-1708589336871-a0a2bf57c696?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ODBzJTIwZGFuY2UlMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
         "option1": {
             "headline": "PARTYYYYY",
             "text": "Du kannst dich im Nachhinein an kaum etwas erinnern, jedoch scheint die ganze Nachbarschaft mehr zu wissen als du. Zwei Jahre später erzählt einer deiner Starfreunde in einem Interview von deiner legendären Party, doch kein Reporter war rechtzeitig vor Ort.",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "image": "https://images.unsplash.com/photo-1591035897819-f4bdf739f446?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFwcHklMjB0YWxraW5nfGVufDB8fDB8fHww",
             "points": -2,
             "info": {
                 "headline": "Auffälliges Verhalten",
@@ -116,7 +116,7 @@
         "option2": {
             "headline": "Lieber nicht.",
             "text": "Kurz ist die Stimmung im Keller, jedoch fällt dann jemandem ein, dass er noch etwas auf Lager hat.",
-            "image": "https://imgs.search.brave.com/viCAIBT513rNK1k1TvKAByrVIwnjNFo0SkGbRJDFrwM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM3Ny85NDYvMGI5/LmpwZw",
+            "image": "https://plus.unsplash.com/premium_photo-1671580671733-92d038f1ea97?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWZ0ZXIlMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D",
             "points": 2,
             "info": {
                 "headline": "Auffälliges Verhalten",
